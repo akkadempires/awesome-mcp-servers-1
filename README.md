@@ -247,6 +247,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://static.iplocate.io/custom/logo-square-rounded.png" height="14"/> [IPLocate](https://github.com/iplocate/mcp-server-iplocate) - Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
 - <img src="https://www.ip2location.io/favicon.ico" height="14"/> [IP2Location.io](https://github.com/ip2location/mcp-ip2location-io) - IP2Location.io API integration to retrieve the geolocation information for an IP address.
 - <img src="https://www.qgis.org/styleguide/visual/qgis-logo.svg" height="14"/> [QGIS](https://github.com/jjsantos01/qgis_mcp) - connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more.
+- <img src="https://datakoot.com/favicon.ico" height="14"/> [Datakoot Weather Intel](https://github.com/datakoot/weather-intel-mcp) - Keyless US weather forecasts and alerts (NWS), earthquakes (USGS), elevation and geocoding. Remote, no API key: `weather.datakoot.com/mcp`.
 
 
 <br />
@@ -346,6 +347,9 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- <img src="https://datakoot.com/favicon.ico" height="14"/> [Datakoot Filings Intel](https://github.com/datakoot/filings-intel-mcp) - Keyless SEC EDGAR: company lookup, recent filings, financials and insider transactions. Remote, no API key: `filings.datakoot.com/mcp`.
+- <img src="https://datakoot.com/favicon.ico" height="14"/> [Datakoot Market Intel](https://github.com/datakoot/market-intel-mcp) - Keyless foreign-exchange rates, currency conversion and time series (ECB). Remote, no API key: `market.datakoot.com/mcp`.
+- <img src="https://datakoot.com/favicon.ico" height="14"/> [Datakoot Base Intel](https://github.com/datakoot/base-intel-mcp) - Keyless read-only on-chain data for the Base network: balances, token metadata, gas and tx status. Remote, no API key: `base.datakoot.com/mcp`.
 
 <br />
 
@@ -358,6 +362,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://datakoot.com/favicon.ico" height="14"/> [Datakoot Economy Intel](https://github.com/datakoot/economy-intel-mcp) - Keyless macro data: GDP, inflation, unemployment and more (World Bank, US BLS). Remote, no API key: `economy.datakoot.com/mcp`.
+- <img src="https://datakoot.com/favicon.ico" height="14"/> [Datakoot Regulatory Intel](https://github.com/datakoot/regulatory-intel-mcp) - Keyless US Federal Register: rules, notices, full documents, executive orders and agencies. Remote, no API key: `regulatory.datakoot.com/mcp`.
 
 <br />
 
@@ -402,6 +408,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/jira/0052CC" height="14"/> [tom28881/mcp-jira-server](https://github.com/tom28881/mcp-jira-server) - Comprehensive TypeScript MCP server for Jira with 20+ tools covering complete project management workflow: issue CRUD, sprint management, comments/history, attachments, batch operations. Features universal field auto-detection, full Czech/localization support, and date parsing with multiple formats. Created by [Tomáš Gregorovič](https://www.linkedin.com/in/tomáš-g-8423b61a2/).
 - <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
+- <img src="https://datakoot.com/favicon.ico" height="14"/> [Datakoot Package Intel](https://github.com/datakoot/package-intel-mcp) - Keyless software supply-chain data for npm, PyPI and crates.io: info, versions, downloads, dependencies and health. Remote, no API key: `package.datakoot.com/mcp`.
 
 <br />
 
@@ -460,6 +467,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- <img src="https://datakoot.com/favicon.ico" height="14"/> [Datakoot Security Intel](https://github.com/datakoot/security-intel-mcp) - Keyless CVE lookup (NVD), package-vulnerability checks and dependency auditing (OSV) for npm/PyPI/crates. Remote, no API key: `security.datakoot.com/mcp`.
+- <img src="https://datakoot.com/favicon.ico" height="14"/> [Datakoot Domain Intel](https://github.com/datakoot/domain-intel-mcp) - Keyless domain & company OSINT: DNS, WHOIS/RDAP, tech-stack fingerprint, email deliverability and subdomains. Remote, no API key: `domain.datakoot.com/mcp`.
 
 <br />
 
